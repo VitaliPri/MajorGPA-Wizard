@@ -1,8 +1,8 @@
 # Major GPA Wizard
 
-A common concern among students is the absence of major GPA information on their transcripts. The Major GPA Wizard is a user-friendly application designed to simplify the process of calculating major GPA from formatted PDF files.
+A common concern among students is the absence of major GPA information on their transcripts. Transcripts only show cumulative GPA (all classes that students took), not major GPA (classes that related to students major, for example, all Computer Science classes). 
 
-**Website:** [Major GPA Wizard](https://major-gpa-wizard.vercel.app/)
+The [Major GPA Wizard](https://major-gpa-wizard.vercel.app/) is a user-friendly application designed to simplify the process of calculating major GPA from formatted PDF files.
 
 ## Key Features
 
