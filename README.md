@@ -57,4 +57,4 @@ Built with Node.js and Express.js, the backend employs the "pdfreader" package f
 <img width="1255" alt="Screenshot 2024-01-23 at 10 35 46 AM" src="https://github.com/VitaliPri/MajorGPA-Wizard/assets/101225909/ad90e430-c440-4455-a9fc-7364e0960296">
 <img width="1557" alt="Screenshot 2024-01-24 at 9 45 15 AM" src="https://github.com/VitaliPri/MajorGPA-Wizard/assets/101225909/08030d88-8407-4e83-a4f5-fe610b790b18">
 
-  
+ Link to the backend of the application: https://github.com/VitaliPri/MajorGPA-Backend 
